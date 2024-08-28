@@ -30,7 +30,7 @@
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/platform-server": "^14.0.0",
     "@angular/router": "^14.0.0",
-    "@netlify/functions": "^1.2.0",
+    "@netlify/functions": "^1.6.0",
     "@nguniversal/express-engine": "^14.2.0",
     "express": "^4.15.2",
     "fs-extra": "^10.1.0",
